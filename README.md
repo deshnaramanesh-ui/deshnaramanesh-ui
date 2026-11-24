@@ -58,3 +58,118 @@ insights and intelligent solutions.
 <p>
   <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Optiqo
+
+![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square)
+
+AI-powered retail demand forecasting and inventory optimization platform designed to help businesses reduce stock shortages, minimize overstocking and make smarter inventory decisions.
+
+**Focus:** Demand forecasting, predictive analytics and inventory optimization.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+![Forecasting](https://img.shields.io/badge/Forecasting-8A2BE2?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### Traviq
+
+![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square)
+
+AI-powered tourism demand forecasting and market intelligence platform designed to help Sri Lankan tourism businesses identify emerging markets and make data-driven marketing decisions.
+
+**Focus:** Tourism forecasting, market intelligence and explainable AI.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=flat-square)
+![Analytics](https://img.shields.io/badge/Predictive_Analytics-009688?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Customer Churn Prediction
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+
+Machine learning project using Random Forest classification to identify customers likely to churn, with feature engineering and decision threshold optimization to improve recall.
+
+**Demonstrates:** Classification, class imbalance handling, feature engineering and model evaluation.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](CHURN_REPO_URL)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### Colombo Housing Price Analysis
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+
+Exploratory data analysis investigating factors affecting housing prices across Colombo 1–15, using 707 web-scraped property listings and a stratified sample of 200 properties.
+
+**Demonstrates:** Web scraping, statistical analysis, stratified sampling and non-parametric hypothesis testing.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](HOUSING_REPO_URL)
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-8A2BE2?style=flat-square)
+![EDA](https://img.shields.io/badge/EDA-009688?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### VibeFlow
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+
+A full-stack music application featuring playlists, favourites, user profiles and a gamified study session tracking system.
+
+**Demonstrates:** Full-stack development, NoSQL database management and application design.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](VIBEFLOW_REPO_URL)
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### AWS Scalable Web Application
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+
+A scalable cloud-hosted web application implementing AWS infrastructure, application load balancing and automatic scaling to support changing traffic demands.
+
+**Demonstrates:** Cloud architecture, networking, infrastructure deployment and scalability.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](AWS_REPO_URL)
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+---
