@@ -187,3 +187,8 @@ An interactive Power BI dashboard designed to evaluate marketing campaign perfor
 - 📜 **Web Design for Beginners** — University of Moratuwa (2025)
 
 ---
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
