@@ -176,4 +176,14 @@ An interactive Power BI dashboard designed to evaluate marketing campaign perfor
 
 ---
 
+---
 
+## 🎓 Certifications
+
+- 📜 **GitHub Foundations** — DataCamp (2026)
+- 📜 **Foundations: Data, Data, Everywhere** — Google (2025)
+- 📜 **Business Analytics with Excel** — Microsoft (2025)
+- 📜 **Python for Data Science, AI & Development** — IBM (2025)
+- 📜 **Web Design for Beginners** — University of Moratuwa (2025)
+
+---
