@@ -61,6 +61,8 @@ insights and intelligent solutions.
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -86,7 +88,7 @@ AI-powered retail demand forecasting and inventory optimization platform designe
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square)
 
-AI-powered tourism demand forecasting and market intelligence platform designed to help Sri Lankan tourism businesses identify emerging markets and make data-driven marketing decisions.
+AI-powered tourism demand forecasting and market intelligence platform designed to help Sri Lankan tourism businesses identify potential source markets and make data-driven marketing decisions.
 
 **Focus:** Tourism forecasting, market intelligence and explainable AI.
 
@@ -154,22 +156,24 @@ A full-stack music application featuring playlists, favourites, user profiles an
 </td>
 <td width="50%" valign="top">
 
-### AWS Scalable Web Application
+### Marketing Campaign Performance Dashboard
 
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 
-A scalable cloud-hosted web application implementing AWS infrastructure, application load balancing and automatic scaling to support changing traffic demands.
+An interactive Power BI dashboard designed to evaluate marketing campaign performance, analyze customer purchasing behaviour and identify effective marketing strategies for improving sales.
 
-**Demonstrates:** Cloud architecture, networking, infrastructure deployment and scalability.
+**Demonstrates:** Business intelligence, data visualization, customer segmentation, marketing analytics and data-driven decision-making.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](AWS_REPO_URL)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](POWERBI_REPO_URL)
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
 
 </td>
 </tr>
 </table>
 
 ---
+
+
