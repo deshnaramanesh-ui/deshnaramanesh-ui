@@ -32,32 +32,78 @@ insights and intelligent solutions.
 - 🚀 Interested in Predictive Analytics, Artificial
   Intelligence and Data Engineering
 
+---
 
-  ## 🛠️ Tech Stack
+## 🛠️ TECH STACK
 
-### Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,js,ts" />
-</p>
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>Python
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=r" width="55"/><br>R
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>MySQL
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgres" width="55"/><br>PostgreSQL
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>MongoDB
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=angular" width="55"/><br>Angular
+</td>
+</tr>
 
-### Databases
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>Node.js
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="55"/><br>AWS
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>Git
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="55"/><br>Linux
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>VS Code
+</td>
+<td></td>
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+<br>
 
-### Web Development
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,nodejs,html,css,bootstrap" />
-</p>
+<br>
 
-### Cloud & Development Tools
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode" />
-</p>
+</div>
+
+
+  
 
 ---
 
