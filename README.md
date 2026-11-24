@@ -71,7 +71,7 @@ insights and intelligent solutions.
 
 ### Optiqo
 
-
+![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square)
 
 AI-powered retail demand forecasting and inventory optimization platform designed to help businesses reduce stock shortages, minimize overstocking and make smarter inventory decisions.
 
@@ -86,7 +86,7 @@ AI-powered retail demand forecasting and inventory optimization platform designe
 
 ### Traviq
 
-
+![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square)
 
 AI-powered tourism demand forecasting and market intelligence platform designed to help Sri Lankan tourism businesses identify potential source markets and make data-driven marketing decisions.
 
@@ -121,6 +121,7 @@ Machine learning project using Random Forest classification to identify customer
 
 ### Colombo Housing Price Analysis
 
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 
 Exploratory data analysis investigating factors affecting housing prices across Colombo 1–15, using 707 web-scraped property listings and a stratified sample of 200 properties.
 
